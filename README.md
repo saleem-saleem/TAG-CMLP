@@ -90,4 +90,4 @@ tag-cmlp/
 - **GCN/GAT/MTGNN** are included as dependency-light proxies so the pipeline runs
   out of the box; replace them in `src/baselines.py` with full graph implementations
   (e.g. PyTorch Geometric) to reproduce those baselines exactly.
-- Any numbers produced on the synthetic fallback data are **illustrative only**.
+
